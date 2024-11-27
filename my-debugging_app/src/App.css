@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+  background-color: aliceblue;
+  padding: 10px;
+  margin: 0 auto;
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 2;
+  border-style: double;
+  border-color: rgb(199, 170, 5);
+  margin-top: 10px;
+}
+
+button {
+  width: 200px;
+  height: auto;
+  font-size: 25px;
+  border-radius: 12px;
+  color: yellow;
+  padding: 10px;
+  background-color: rgb(2, 173, 116);
+}
+img {
+  width: 200px;
+  height: auto;
+}
+
+h1 {
+  margin: 0 20px;
+  text-wrap: wrap;
+  font: 35px;
+  color: rgb(7, 130, 97);
+}
+span {
+  color: indianred;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+h2 {
+  margin: 0 30px;
+  padding: 15px;
+  text-wrap: wrap;
+  font: 25px;
+  color: purple;
+}
